@@ -125,7 +125,7 @@ M.Sc. Mathematics & Computing Student at IIT Bhilai | AI • Numerical Analysis 
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhayraj03122002-dev/abhayraj03122002-dev/output/snake.svg" alt="snake animation"/>
