@@ -103,22 +103,21 @@ M.Sc. Mathematics & Computing Student at IIT Bhilai | AI • Numerical Analysis 
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://github.com/abhayraj03122002-dev/abhayraj03122002-dev" target="_blank" style="margin-right: 15px;">
+    <img src="https://skillicons.dev/icons?i=github" height="45" width="45" />
+  </a>
 
-<a href="https://github.com/abhayraj03122002-dev/abhayraj03122002-dev" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="45" width="45" />
-</a>
+  <a href="https://www.linkedin.com/in/abhay-kumar-23988731b" target="_blank" style="margin-right: 15px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
+  </a>
 
-<a href="https://www.linkedin.com/in/abhay-kumar-23988731b" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
-</a>
-
-<a href="mailto:abhayraj03122002@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" width="45" />
-</a>
-
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhayraj03122002@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" width="45" />
+  </a>
 </p>
 
 ---
+
 
 ## ⚡ Fun Fact
 
