@@ -64,9 +64,9 @@ M.Sc. Mathematics & Computing Student at IIT Bhilai | AI • Numerical Analysis 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhayraj03122002-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayraj03122002-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ M.Sc. Mathematics & Computing Student at IIT Bhilai | AI • Numerical Analysis 
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayraj03122002-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ M.Sc. Mathematics & Computing Student at IIT Bhilai | AI • Numerical Analysis 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhayraj03122002-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -104,15 +104,15 @@ M.Sc. Mathematics & Computing Student at IIT Bhilai | AI • Numerical Analysis 
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/abhayraj03122002-dev/abhayraj03122002-dev" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="45" width="45" />
 </a>
 
-<a href="https://www.linkedin.com/" target="blank">
+<a href="https://www.linkedin.com/in/abhay-kumar-23988731b" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:abhayraj03122002@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" width="45" />
 </a>
 
@@ -129,11 +129,11 @@ M.Sc. Mathematics & Computing Student at IIT Bhilai | AI • Numerical Analysis 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/abhayraj03122002-dev/abhayraj03122002-dev/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abhayraj03122002-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
