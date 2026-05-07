@@ -125,14 +125,6 @@ M.Sc. Mathematics & Computing Student at IIT Bhilai | AI • Numerical Analysis 
 
 ---
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhayraj03122002-dev/abhayraj03122002-dev/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhayraj03122002-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
